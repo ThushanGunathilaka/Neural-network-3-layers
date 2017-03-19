@@ -1,0 +1,8 @@
+#Numarical values only(ex: float) Otherwise NaN (not a number) --> 0.
+#Hours Slept,Hours Studied,Hours Exercised,Test Score
+3,5,1,75
+5,1,1,82
+10,2,1,93
+3,5,1,75
+5,1,1,82
+10,2,1,93
